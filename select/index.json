@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "8 (JANGWONYOUNG Solo)",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-24T22:18:15.955819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "8 Ball - Remix",
+      "artist": "N.W.A.",
+      "has_synced": true,
+      "path": "select/01_8_Ball_-_Remix_N.W.A..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "8 Mile Road - G-Unit Remix",
+      "artist": "50 Cent feat. Lloyd Banks & Tony Yayo",
+      "has_synced": true,
+      "path": "select/02_8_Mile_Road_-_G-Unit_Remix_50_Cent_feat._Lloyd_Banks_&_Tony_Yayo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "8 Mile Road (G-Unit Remix) Feat Lloyd Banks & Tony Yayo)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/03_8_Mile_Road_(G-Unit_Remix)_Feat_Lloyd_Banks_&_Tony_Yayo)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "8 Million Stories",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/04_8_Million_Stories_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "8 Out Of 10",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/05_8_Out_Of_10_Drake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "8 (circle)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/06_8_(circle)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "White Meat (feat. 8 Ball & MJG)",
+      "artist": "Lil Jon & The East Side Boyz",
+      "has_synced": true,
+      "path": "select/07_White_Meat_(feat._8_Ball_&_MJG)_Lil_Jon_&_The_East_Side_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "5 8 6",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/08_5_8_6_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "8 to a 4",
+      "artist": "Nav",
+      "has_synced": true,
+      "path": "select/09_8_to_a_4_Nav.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "1 6 4 8",
+      "artist": "Sabaton",
+      "has_synced": true,
+      "path": "select/10_1_6_4_8_Sabaton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Alive (8 Track Demo)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_Alive_(8_Track_Demo)_Oasis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "8 (JANGWONYOUNG Solo)",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_8_(JANGWONYOUNG_Solo)_IVE.txt"
+    }
+  ]
+}
